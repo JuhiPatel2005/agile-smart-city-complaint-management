@@ -4,7 +4,7 @@ const ISSUE_CATEGORIES = [
   "Electricity & Street Lighting",
   "Solid Waste Management"
 ];
-
+//this is first change
 const ALLOWED_SEVERITIES = ["Low", "Medium", "High"];
 
 function buildComplaintRecord(input = {}) {
